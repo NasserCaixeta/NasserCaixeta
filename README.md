@@ -1,7 +1,7 @@
 Nasser Caixeta 21y.
 
 => Studying web development.
-=> Computer Science | 6º Semester.
+=> Computer Science | 7º Semester.
 => English and Portuguese. 
 => LinkedIn: https://www.linkedin.com/in/nasser-cam%C3%AAllo-caixeta/
 <div>
