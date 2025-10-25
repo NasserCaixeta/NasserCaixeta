@@ -3,7 +3,7 @@ Nasser Caixeta 21y.
 => Studying web development.
 => Computer Science | 7º Semester.
 => English and Portuguese. 
-=> LinkedIn: https://www.linkedin.com/in/nasser-cam%C3%AAllo-caixeta/
+=> LinkedIn: https://www.linkedin.com/in/nasser-caixeta/
 <div>
           
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nassercaixeta&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats">
