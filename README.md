@@ -4,12 +4,7 @@ Nasser Caixeta 22y.
 => Computer Science | 8º Semester.
 => English and Portuguese. 
 => LinkedIn: https://www.linkedin.com/in/nasser-caixeta/
-<div>
-          
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nassercaixeta&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=nassercaixeta&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats">
 
-</div>
 
 
 <div style="display = inline_block"><br>
