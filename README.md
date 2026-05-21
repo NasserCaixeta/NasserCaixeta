@@ -1,8 +1,11 @@
 Nasser Caixeta 22y.
 
 => Web Developer
+
 => Computer Science | 8º Semester.
+
 => English and Portuguese. 
+
 => LinkedIn: https://www.linkedin.com/in/nasser-caixeta/
 
 
