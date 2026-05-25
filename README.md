@@ -1,30 +1,30 @@
-# Olá, eu sou o Nasser Caixeta! 👋
+# Hi there, I'm Nasser Caixeta! 👋
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Localização-Brasília,%20DF-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Localização">
-  <img src="https://img.shields.io/badge/Formação-Ciência%20da%20Computação%20(8º%20Semestre)-orange?style=flat-square&logo=read-the-docs&logoColor=white" alt="Formação">
-  <img src="https://img.shields.io/badge/Idiomas-Português%20%7C%20Inglês%20Avançado-green?style=flat-square" alt="Idiomas">
+  <img src="https://img.shields.io/badge/Location-Brasília,%20DF-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/Education-Computer%20Science%20(8th%20Semester)-orange?style=flat-square&logo=read-the-docs&logoColor=white" alt="Education">
+  <img src="https://img.shields.io/badge/Languages-Portuguese%20%7C%20Advanced%20English-green?style=flat-square" alt="Languages">
 </div>
 
 <br>
 
-Sou desenvolvedor focado em construir soluções robustas de **Software**, **Automação com IA** e **Engenharia de Dados**. Atualmente, trabalho na criação de agentes inteligentes, bots com LLMs e otimização de arquiteturas assíncronas para entregar eficiência real a processos de negócio.
+I am a Software Developer focused on building robust solutions across **Software Engineering**, **AI Automation**, and **Data Engineering**. Currently, I specialize in designing intelligent agents, LLM-powered bots, and optimizing asynchronous architectures to deliver real efficiency to business processes.
 
-Especialidades: **Python**, **JavaScript/Node.js**, **Aplicações com LLMs**, **Arquitetura de Software** e **Pipelines de Dados**.
-
----
-
-## 🚀 Impacto & Resultados (O que eu faço)
-
-*   **IA & Eficiência:** Desenvolvi um Bot de tickets técnicos utilizando Python e LLMs que reduziu o tempo de resolução em **66%**, além de padronizar processos com agentes que diminuíram o tempo de projetos em **73%**.
-*   **Engenharia de Dados:** Automatizei pipelines de dados com Python e SQL, reduzindo o tempo de atualização de relatórios em **40%** e análises manuais em **35%**.
-*   **Liderança Técnica:** Estruturei documentações críticas e apoiei o onboarding de novos desenvolvedores, reduzindo o tempo médio de ramp-up do time em **50%**.
+Specialties: **Python**, **JavaScript/Node.js**, **LLM Applications**, **Software Architecture**, and **Data Pipelines**.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 Impact & Results
 
-### 🧠 Inteligência Artificial & Automação
+*   **AI & Efficiency:** Developed a technical ticketing bot using Python and LLMs that reduced resolution time by **66%**, and standardized processes with AI agents that slashed overall project delivery time by **73%**.
+*   **Data Engineering:** Automated data pipelines using Python and SQL, reducing report refresh times by **40%** and cutting down manual analysis by **35%**.
+*   **Technical Leadership:** Structured critical system documentation and supported the onboarding of new developers, reducing the team's average ramp-up time by **50%**.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 🧠 Artificial Intelligence & Automation
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Llama_&_LLMs-04A3E3?style=for-the-badge&logo=meta&logoColor=white" alt="Llama" />
@@ -32,7 +32,7 @@ Especialidades: **Python**, **JavaScript/Node.js**, **Aplicações com LLMs**, *
   <img src="https://img.shields.io/badge/Prompt_Engineering-FF5722?style=for-the-badge" alt="Prompt Engineering" />
 </div>
 
-### 💻 Desenvolvimento Full Stack & Backend
+### 💻 Full Stack & Backend Development
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
@@ -44,7 +44,7 @@ Especialidades: **Python**, **JavaScript/Node.js**, **Aplicações com LLMs**, *
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 </div>
 
-### 🗄️ Dados, Orquestração & Infraestrutura
+### 🗄️ Data, Orchestration & Infrastructure
 <div style="display: inline_block">
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img align="center" alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
@@ -53,17 +53,19 @@ Especialidades: **Python**, **JavaScript/Node.js**, **Aplicações com LLMs**, *
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
-> **Conceitos aplicados no dia a dia:** Arquitetura de Microserviços, APIs RESTful, Processamento Assíncrono (Celery), Workflow Automation e Design de Fluxos.
+> **Core concepts applied daily:** Microservices Architecture, RESTful APIs, Asynchronous Processing (Celery), Workflow Automation, and Flow Design.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NasserCaixeta&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
-## 📬 Conecte-se Comigo
+---
+
+## 📬 Connect with Me
 
 *   **LinkedIn:** [linkedin.com/in/nasser-caixeta](https://www.linkedin.com/in/nasser-caixeta/)
-*   **E-mail Profissional:** nassercaixeta.profissional@gmail.com
+*   **Professional Email:** nassercaixeta.profissional@gmail.com
