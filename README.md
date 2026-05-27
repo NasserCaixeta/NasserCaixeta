@@ -60,7 +60,7 @@ Specialties: **Python**, **React**, **Next.js**, **JavaScript/Node.js**, **LLM A
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NasserCaixeta&theme=radical" alt="GitHub Streak Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NasserCaixeta&theme=radical&cache_buster=1" alt="GitHub Streak Stats" />
 </div>
 
 ---
