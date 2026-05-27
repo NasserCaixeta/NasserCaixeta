@@ -10,7 +10,7 @@
 
 I am a Software Developer focused on building robust solutions across **Software Engineering**, **AI Automation**, and **Data Engineering**. Currently, I specialize in designing intelligent agents, LLM-powered bots, and optimizing asynchronous architectures to deliver real efficiency to business processes.
 
-Specialties: **Python**, **JavaScript/Node.js**, **LLM Applications**, **Software Architecture**, and **Data Pipelines**.
+Specialties: **Python**, **React**, **Next.js**, **JavaScript/Node.js**, **LLM Applications**, **Software Architecture**, and **Data Pipelines**.
 
 ---
 
