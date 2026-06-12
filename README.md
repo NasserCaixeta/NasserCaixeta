@@ -53,7 +53,7 @@ Specialties: **Python**, **React**, **Next.js**, **JavaScript/Node.js**, **LLM A
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
-> **Core concepts applied daily:** Microservices Architecture, RESTful APIs, Asynchronous Processing (Celery), Workflow Automation, and Flow Design.
+> **Core concepts applied daily:** Microservices Architecture, RESTful APIs, Asynchronous Processing (Celery), Workflow Automation, and Flow Design!
 
 ---
 
