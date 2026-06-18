@@ -8,34 +8,34 @@
 
 <br>
 
-I am a Software Developer focused on building robust solutions across **Software Engineering**, **AI Automation**, and **Data Engineering**. Currently, I specialize in designing intelligent agents, LLM-powered bots, and optimizing asynchronous architectures to deliver real efficiency to business processes.
+I am a **Full Stack Developer** focused on building web applications, APIs, internal tools, dashboards, and automation solutions using **React**, **Node.js**, **TypeScript**, **PostgreSQL**, **Next.js**, and **REST APIs**.
 
-Specialties: **Python**, **React**, **Next.js**, **JavaScript/Node.js**, **LLM Applications**, **Software Architecture**, and **Data Pipelines**.
+My background includes experience with **IT, data, automation, and web development**, working with scripts, SQL queries, integrations, data processing routines, and tools to reduce manual work and improve internal processes.
+
+I also work with **Python** and **applied AI integrations**, using tools such as OpenAI, Llama, Gemini, and Langfuse to support automation workflows, ticket analysis, document processing, and intelligent data extraction.
+
+Specialties: **React**, **Node.js**, **TypeScript**, **PostgreSQL**, **Next.js**, **JavaScript**, **Python**, **REST APIs**, **Workflow Automation**, and **Applied AI**.
 
 ---
 
-## 🚀 Impact & Results
+## 🚀 Focus & Experience
 
-*   **AI & Efficiency:** Developed a technical ticketing bot using Python and LLMs that reduced resolution time by **66%**, and standardized processes with AI agents that slashed overall project delivery time by **73%**.
-*   **Data Engineering:** Automated data pipelines using Python and SQL, reducing report refresh times by **40%** and cutting down manual analysis by **35%**.
-*   **Technical Leadership:** Structured critical system documentation and supported the onboarding of new developers, reducing the team's average ramp-up time by **50%**.
+* **Full Stack Development:** Building web applications, internal systems, dashboards, and APIs using React, Node.js, TypeScript, Next.js, PostgreSQL, and REST APIs.
+* **Automation & Integrations:** Developing scripts, internal tools, and web integrations with JavaScript, Python, SQL, and APIs to reduce manual work and improve operational workflows.
+* **Backend & Data:** Working with SQL queries, relational databases, backend logic, data processing routines, and reporting structures.
+* **Applied AI:** Creating AI-supported workflows with LLMs, OpenAI, Llama, Gemini, and Langfuse for ticket analysis, document processing, and automation use cases.
+* **Collaboration:** Supporting documentation, delivery reviews, technical organization, and onboarding through clear processes and pair programming.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### 🧠 Artificial Intelligence & Automation
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Llama_&_LLMs-04A3E3?style=for-the-badge&logo=meta&logoColor=white" alt="Llama" />
-  <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=analytics&logoColor=white" alt="Langfuse" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FF5722?style=for-the-badge" alt="Prompt Engineering" />
-</div>
-
 ### 💻 Full Stack & Backend Development
+
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
@@ -45,15 +45,30 @@ Specialties: **Python**, **React**, **Next.js**, **JavaScript/Node.js**, **LLM A
 </div>
 
 ### 🗄️ Data, Orchestration & Infrastructure
+
 <div style="display: inline_block">
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
-> **Core concepts applied daily:** Microservices Architecture, RESTful APIs, Asynchronous Processing (Celery), Workflow Automation, and Flow Design!
+### 🧠 Artificial Intelligence & Automation
+
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Llama_&_LLMs-04A3E3?style=for-the-badge&logo=meta&logoColor=white" alt="Llama" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=analytics&logoColor=white" alt="Langfuse" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF5722?style=for-the-badge" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Workflow_Automation-2E7D32?style=for-the-badge" alt="Workflow Automation" />
+</div>
+
+> **Core concepts applied:** Full Stack Development, RESTful APIs, SQL, Web Integrations, Workflow Automation, Asynchronous Processing, Dashboards, and Applied AI.
 
 ---
 
@@ -67,5 +82,6 @@ Specialties: **Python**, **React**, **Next.js**, **JavaScript/Node.js**, **LLM A
 
 ## 📬 Connect with Me
 
-*   **LinkedIn:** [linkedin.com/in/nasser-caixeta](https://www.linkedin.com/in/nasser-caixeta/)
-*   **Professional Email:** nassercaixeta.profissional@gmail.com
+* **Portfolio:** [cv-nasser.vercel.app/pt](https://cv-nasser.vercel.app/pt)
+* **LinkedIn:** [linkedin.com/in/nasser-caixeta](https://www.linkedin.com/in/nasser-caixeta/)
+* **Professional Email:** [nassercaixeta.profissional@gmail.com](mailto:nassercaixeta.profissional@gmail.com)
