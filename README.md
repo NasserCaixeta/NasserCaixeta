@@ -82,6 +82,6 @@ Specialties: **React**, **Node.js**, **TypeScript**, **PostgreSQL**, **Next.js**
 
 ## 📬 Connect with Me
 
-* **Portfolio:** [cv-nasser.vercel.app/pt](https://cv-nasser.vercel.app/pt)
+* **Portfolio:** [nassercaixeta.dev](nassercaixeta.dev)
 * **LinkedIn:** [linkedin.com/in/nasser-caixeta](https://www.linkedin.com/in/nasser-caixeta/)
 * **Professional Email:** [nassercaixeta.profissional@gmail.com](mailto:nassercaixeta.profissional@gmail.com)
