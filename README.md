@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Location-Brasília,%20DF-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
-  <img src="https://img.shields.io/badge/Education-Computer%20Science%20(8th%20Semester)-orange?style=flat-square&logo=read-the-docs&logoColor=white" alt="Education">
+  <img src="https://img.shields.io/badge/Education-Computer%20Science%20-orange?style=flat-square&logo=read-the-docs&logoColor=white" alt="Education">
   <img src="https://img.shields.io/badge/Languages-Portuguese%20%7C%20Advanced%20English-green?style=flat-square" alt="Languages">
 </div>
 
